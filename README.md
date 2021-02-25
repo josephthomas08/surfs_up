@@ -15,7 +15,14 @@ Flask was used to provide a preview but we have not used FLask for generating th
 
 ## Results:
 
-There is a bulleted list that addresses the three key differences in weather between June and December. 
+The  weather data requested by Mr. Avy was specifically for the months of June and December. The charts below provides a detailed overview of the weather differences between these two months. The difference as we see is very minimal.
+
+#### 1. The Rainfall difference is hardly 0.5 inches.
+#### 2. Average rainfall for December is 2 inches higher than June.
+#### 3.The temp difference as well is merely 2 deg.
+#### 4.The low temp diff is a bit more that the higher ones but again it is only 8 degree diff.
+#### 5.Average temperature is only 4 degrees different with June being the hottest.
+from the above provided data we can deduce that Hawaii has terrific year-round weather.
 
 ### D1: Determine the Summary Statistics for June
 
@@ -37,12 +44,10 @@ There is a bulleted list that addresses the three key differences in weather bet
 
 
 
+## Summary:* 
 
+The following analysis is further advised to Mr Avy before we open ths shop to better juddge and adopt the resources required over the low and high season of visitors.
 
-
-
-
-
-## Summary:
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. 
+#### 1. We will advice the management to let us expand the analysis to include all months of the year in order to visualize any seasonal differences , especially rainfall which can put a damper on ice consumption.
+#### 2. It will be further a greate initiative to plot the rainfall data by month over the time-period in the database.
+#### 3. lastly we should be engaging in other station analysis to other stations near possible locations for a second shop.
