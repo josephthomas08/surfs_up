@@ -25,6 +25,21 @@ There is a bulleted list that addresses the three key differences in weather bet
 
 <img width="272" alt="December_stats" src="https://user-images.githubusercontent.com/75267605/109104851-c8575400-76fa-11eb-8653-57f6eaa7fad6.png">
 
+### Further analysis 
+
+#### June percipitation 
+<img width="214" alt="June percp" src="https://user-images.githubusercontent.com/75267605/109177651-07ff5980-7756-11eb-893b-83d5a126b869.png">
+
+#### December Percipitation 
+
+<img width="180" alt="December percp" src="https://user-images.githubusercontent.com/75267605/109177825-3846f800-7756-11eb-8126-388690068c04.png">
+
+
+
+
+
+
+
 
 
 
