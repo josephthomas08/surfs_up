@@ -1,9 +1,15 @@
 # surfs_up
 ## Improving surfing experience for clients  by analyzing data
 
+
 ## Overview:
 
-The purpose of the analysis is well defined. 
+The project in hand is with W. Avy who so far had a great expereince working with us and he has further instructed us to provide him with  more information about temperature trends before opening the surf shop. 
+More Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+The tools we have used to provide the detailed analytical report were:
+Python(Pandas, Matplolib), SQLAlchemy. 
+Flask was used to provide a preview but we have not used FLask for generating this report.
+
 ## Results:
 
 There is a bulleted list that addresses the three key differences in weather between June and December. 
